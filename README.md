@@ -71,8 +71,7 @@ Some important KPIs used in this project:
 ---
 
 # Dashboard Preview
-<img width="499" height="281" alt="Screenshot 2026-05-18 140045" src="https://github.com/user-attachments/assets/bd7588f7-7732-46f0-8b32-53d671d3cf20" />
-<img width="499" height="281" alt="Screenshot 2026-05-18 140103" src="https://github.com/user-attachments/assets/bd7588f7-7732-46f0-8b32-53d671d3cf20" />
+<img width="499" height="281" alt="Dominos Sales Dashboard" src=""C:\Users\KEJITSOLUTIONS\Pictures\Screenshots\Screenshot 2026-05-18 140045.png"" />
 
 
 
